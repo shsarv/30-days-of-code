@@ -2,8 +2,8 @@
 
 Hackerrank practice questions.
 
-[C language]()
-[Python]()
+* [C language]()
+* [Python]()
 [Java]()
 [Algorithms]()
 [Data Structure]()
