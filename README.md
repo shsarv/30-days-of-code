@@ -4,7 +4,7 @@ Hackerrank practice questions.
 
 * [C language]()
 * [Python]()
-[Java]()
-[Algorithms]()
+* [Java]()
+* [Algorithms]()
 [Data Structure]()
 [Mathematics]()
