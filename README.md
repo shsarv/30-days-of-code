@@ -7,4 +7,4 @@ Hackerrank practice questions.
 * [Java]()
 * [Algorithms]()
 * [Data Structure]()
-[Mathematics]()
+* [Mathematics]()
