@@ -6,5 +6,5 @@ Hackerrank practice questions.
 * [Python]()
 * [Java]()
 * [Algorithms]()
-[Data Structure]()
+* [Data Structure]()
 [Mathematics]()
