@@ -1,10 +1,3 @@
-# hackerRank
+# 30 Days of Code
 
-Hackerrank practice questions.
 
-* [C language]()
-* [Python]()
-* [Java]()
-* [Algorithms]()
-* [Data Structure]()
-* [Mathematics]()
